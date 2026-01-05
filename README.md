@@ -1,4 +1,4 @@
-[![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml)# Automated Logistics Deployment Pipeline
+[![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml)
 🚀 Automated Logistics Deployment Pipeline
 Built for: High-Availability System Monitoring
 
