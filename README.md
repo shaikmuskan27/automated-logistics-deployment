@@ -1,19 +1,33 @@
 [![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml)# Automated Logistics Deployment Pipeline
-An automated CI/CD pipeline built to simulate "Last Mile" logistics monitoring, ensuring consistent infrastructure deployment via containerization.
+🚀 Automated Logistics Deployment Pipeline
+Built for: High-Availability System Monitoring
 
-## 🛠 Tech Stack
-* **Language:** Python (Flask API)
-* **Infrastructure:** Docker (Containerization)
-* **Automation:** GitHub Actions (CI/CD Pipeline)
-* **Environment:** Windows (WSL2) / Linux (Ubuntu-latest)
+📌 Project Overview
+This project simulates a core logistics application environment using a CI/CD Pipeline. It automates the entire lifecycle of a service—from code commit to production-ready containerization and health validation.
 
-## 🚀 Features
-* **Automated Build:** Every code push triggers a Docker build to ensure environment consistency.
-* **Health Check Testing:** The pipeline includes a connectivity test that validates the web server's response before completing the deployment.
-* **Conflict Resolution:** Managed complex Git versioning issues using rebase and force-syncing strategies.
+🛠 Tech Stack
+OS: Linux (WSL2/Ubuntu)
 
-## 📈 SysDE Skills Demonstrated
-* Infrastructure as Code (Dockerfile)
-* CI/CD Workflow Orchestration (YAML)
-* Linux Command Line Proficiency
-* Version Control Best Practices (Git)
+Runtime: Python 3.9 (Flask)
+
+Infrastructure: Docker
+
+Automation: GitHub Actions
+
+Testing: Bash & Curl Health-Check Scripts
+
+🌟 Key Engineering Features
+Automated CI/CD: Every push triggers a full build-test-deploy cycle using GitHub Actions.
+
+Infrastructure-as-Code: Used Dockerfiles to ensure environment parity between development and production.
+
+Self-Healing Logic: Implemented post-deployment Automated Health Checks that verify system connectivity and response integrity.
+
+Operational Troubleshooting: Managed and resolved Linux-based environment conflicts and Git identity configurations.
+
+🚦 How it Works
+Build: Docker creates a lightweight image of the Flask app.
+
+Test: The pipeline launches a temporary container.
+
+Verify: A Bash script uses curl with retry logic to ensure the "System is Online."
