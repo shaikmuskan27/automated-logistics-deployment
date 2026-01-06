@@ -25,12 +25,11 @@ Current status: **0 Vulnerabilities Detected.**
 ## 📸 Project Evidence
 
 ### CI/CD Pipeline Success
-![Pipeline Success](Screenshot 2026-01-06 111820.png)
+
 <img width="949" height="529" alt="Screenshot 2026-01-06 111820" src="https://github.com/user-attachments/assets/d044ef96-bdac-4c3c-900f-0a9684511f3b" />
 
-### Security Scan Results (0 Vulnerabilities)
+### Security Scan Results (0 Vulnerabilities
 
-![Security Report](Screenshot 2026-01-06 111222.png)
 <img width="526" height="388" alt="Screenshot 2026-01-06 111222" src="https://github.com/user-attachments/assets/55bb560f-c09f-4d53-9ad0-a76f56d90f02" />
 
 ## 🛡️ Security Audit Results
@@ -40,3 +39,4 @@ Current status: **0 Vulnerabilities Detected.**
 | :--- | :--- | :--- | :--- | :--- |
 | logistics-app (Debian) | OS | 0 | ✅ SECURE | None - Base Image Patched |
 | Python Packages (Flask) | Language | 0 | ✅ SECURE | None - Dependencies Updated |
+
