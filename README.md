@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 [![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml
 
+=======
+[![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml)
+>>>>>>> 2195443 (Updated README with professional documentation)
 🚀 Automated Logistics Deployment Pipeline
 Built for: High-Availability System Monitoring
 
