@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 [![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml)
+=======
+<<<<<<< HEAD
+[![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml
+
+=======
+[![CI/CD Pipeline](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaikmuskan27/automated-logistics-deployment/actions/workflows/deploy.yml)
+>>>>>>> 2195443 (Updated README with professional documentation)
+>>>>>>> temp-fix
 🚀 Automated Logistics Deployment Pipeline
 Built for: High-Availability System Monitoring
 
@@ -29,5 +38,6 @@ Operational Troubleshooting: Managed and resolved Linux-based environment confli
 Build: Docker creates a lightweight image of the Flask app.
 
 Test: The pipeline launches a temporary container.
+
 
 Verify: A Bash script uses curl with retry logic to ensure the "System is Online."
