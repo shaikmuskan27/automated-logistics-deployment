@@ -21,3 +21,11 @@ Current status: **0 Vulnerabilities Detected.**
 
 ---
 *Built for the Systems Development Engineer (SysDE) Career Path.*
+
+## 📸 Project Evidence
+
+### CI/CD Pipeline Success
+![Pipeline Success](Screenshot 2026-01-06 111820.png)
+
+### Security Scan Results (0 Vulnerabilities)
+![Security Report](Screenshot 2026-01-06 111222.png)
